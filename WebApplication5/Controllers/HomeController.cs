@@ -13,6 +13,7 @@ namespace WebApplication5.Controllers
             return View();
         }
         //哈哈
+        //一裂
         public ActionResult About()
         {
             ViewBag.Message = "Your application description page.";
